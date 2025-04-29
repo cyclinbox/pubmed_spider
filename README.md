@@ -1,6 +1,6 @@
 # pubmed_spider: A spider program for downloading text from pubmed
 
-## discription
+## Discription
 
 One day, I wanted to add my article collection from Zotero to my LLM knowledge base, but I found it cumbersome to retrieve all PDF files from Zotero.
 
@@ -8,7 +8,7 @@ How can we add these articles to an LLM knowledge base? Since Zotero can export 
 
 This was the original motivation for creating this project.
 
-## requirement
+## Requirement
 
 You need python3 and following libraries:
 
